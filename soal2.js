@@ -1,6 +1,6 @@
 var ditemukan = false;
 
-function (var i=0; i<array.length; i++){
+for (var i=0; i<array.length; i++){
     if (array[i] ===outputingin) {
         ditemukan = true;
         break
